@@ -1,1 +1,1 @@
-# zpoif_java_tasks
+### Various Java tasks from Advanced Object and Functional Programming (ZPOiF) academic course
